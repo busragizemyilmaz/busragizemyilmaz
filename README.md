@@ -1,14 +1,28 @@
 ## Hi there 👋
 
-### 📊 GitHub İstatistiklerim
+I'm Büşra Gizem Yılmaz, a passionate developer who loves learning and building new things.  
+I enjoy working with different technologies, solving problems, and improving my coding skills every day.  
+Here’s a quick look at my GitHub activity and coding stats 👇  
+
+---
+
+### 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=busragizemyilmaz&show_icons=true&theme=dark)
 
-![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=busragizemyilmaz&layout=compact&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=busragizemyilmaz&layout=compact&theme=dark)
 
-### Kodlama İstatistiklerim
+---
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=busragizemyilmaz&layout=compact&theme=radical)
+### ⌨️ Coding Activity (WakaTime)
+
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=busragizemyilmaz&layout=compact&theme=dark&cache_seconds=60)
+
+---
+
+💡 *Always curious, always coding!*
+
+
 
 
 
