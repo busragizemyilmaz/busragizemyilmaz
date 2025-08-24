@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Büşra Gizem Yılmaz, a passionate developer who loves learning and building new things.  
-I enjoy working with different technologies, solving problems, and improving my coding skills every day.  
+I enjoy working with different technologies, solving problems and improving my coding skills every day.  
 Here’s a quick look at my GitHub activity and coding stats 👇  
 
 ---
