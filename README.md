@@ -8,15 +8,15 @@ Here’s a quick look at my GitHub activity and coding stats 👇
 
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=busragizemyilmaz&show_icons=true&theme=dark&cache_seconds=60)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=busragizemyilmaz&show_icons=true&theme=tokyonight&cache_seconds=60)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=busragizemyilmaz&layout=compact&theme=dark&cache_seconds=60)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=busragizemyilmaz&layout=compact&theme=tokyonight&cache_seconds=60)
 
 ---
 
 ### ⌨️ Coding Activity (WakaTime)
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=busragizemyilmaz&layout=compact&theme=dark&cache_seconds=60)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=busragizemyilmaz&layout=compact&theme=tokyonight&cache_seconds=60)
 
 ---
 
