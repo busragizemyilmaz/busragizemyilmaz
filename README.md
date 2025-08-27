@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Büşra Gizem Yılmaz  
+Op## Hi there 👋 I'm Büşra Gizem Yılmaz  
 
 🎓 2st-year Computer Engineering student at *Gebze Technical University*  
 💻 Passionate about software development, problem-solving and continuous learning  
@@ -38,7 +38,7 @@
 ---
 
 ### 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/busragizemyilmaz/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/büşra-gizem-yılmaz/)
 - 📧 *busragizemyilmaz.dev@gmail.com*  
 
 ---
