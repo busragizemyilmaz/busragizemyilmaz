@@ -39,7 +39,7 @@ Op## Hi there 👋 I'm Büşra Gizem Yılmaz
 
 ### 🌐 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/büşra-gizem-yılmaz/)
-- 📧 *busragizemyilmaz.dev@gmail.com*  
+- 📧 busragizemyilmaz.dev@gmail.com 
 
 ---
 
