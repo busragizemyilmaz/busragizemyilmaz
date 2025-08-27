@@ -1,28 +1,49 @@
-## Hi there 👋
+## Hi there 👋 I'm Büşra Gizem Yılmaz  
 
-I'm Büşra Gizem Yılmaz, a passionate developer who loves learning and building new things.  
-I enjoy working with different technologies, solving problems and improving my coding skills every day.  
-Here’s a quick look at my GitHub activity and coding stats 👇  
-
----
-
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=busragizemyilmaz&show_icons=true&theme=tokyonight&cache_seconds=60&include_all_commits=true&count_private=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=busragizemyilmaz&layout=compact&theme=tokyonight&cache_seconds=60)
+🎓 2st-year Computer Engineering student at *Gebze Technical University*  
+💻 Passionate about software development, problem-solving and continuous learning  
 
 ---
 
-### ⌨️ Coding Activity (WakaTime)
-
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=busragizemyilmaz&theme=tokyonight&cache_seconds=1800)](https://wakatime.com/@busragizemyilmaz)
-
-
+### 🧑‍💻 About Me
+- 🔭 I’ve worked on *Arduino-based projects* and learned how to manage hardware & sound systems.  
+- ⚡ Strong foundation in *C programming, algorithms and data structures*.  
+- 🐧 Experienced with *Linux/Ubuntu* environments and command-line tools.  
+- 🌱 Currently learning and improving my skills in *web and mobile development*.  
 
 ---
 
-💡 *Always curious, always coding!*
+### 🛠 Tech Stack
+- *Languages*: C, Python
+- *Tools & Platforms*: Arduino, Linux/Ubuntu, Git, GitHub  
+- *Domains of Interest*:  
+  - Cloud Computing ☁  
+  - Artificial Intelligence 🤖  
+  - Web & Mobile Development 🌍📱  
+
+---
+
+### 📊 GitHub Statistics  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=busragizemyilmaz&show_icons=true&theme=tokyonight&cache_seconds=60&include_all_commits=true&count_private=true)  
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=busragizemyilmaz&layout=compact&theme=tokyonight&cache_seconds=60)  
+
+---
+
+### ⌨ Coding Activity (WakaTime)  
+
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=busragizemyilmaz&theme=tokyonight&cache_seconds=1800)](https://wakatime.com/@busragizemyilmaz)  
+
+---
+
+### 🌐 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/busragizemyilmaz/)  
+- 📧 *busragizemyilmaz.dev@gmail.com*  
+
+---
+
+✨ Always curious, always learning, always building.
 
 
 
