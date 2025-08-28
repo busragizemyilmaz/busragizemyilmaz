@@ -25,17 +25,12 @@
 
 ### 📊 GitHub Statistics  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=busragizemyilmaz&show_icons=true&theme=tokyonight&cache_seconds=60&include_all_commits=true&count_private=true)  
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=busragizemyilmaz&layout=compact&theme=tokyonight&cache_seconds=60)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=busragizemyilmaz&theme=tokyonight&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=busragizemyilmaz&show_icons=true&theme=tokyonight&cache_seconds=60&include_all_commits=true&count_private=true)     ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=busragizemyilmaz&theme=tokyonight&hide_border=false) 
 
 ---
 
 ### ⌨ Coding Activity (WakaTime)  
-
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=busragizemyilmaz&theme=tokyonight&cache_seconds=1800)](https://wakatime.com/@busragizemyilmaz)  
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=busragizemyilmaz&theme=tokyonight&cache_seconds=1800)](https://wakatime.com/@busragizemyilmaz)  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=busragizemyilmaz&theme=tokyonight&langs_count=10) 
 
 ---
 
