@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"   # her gün gece 00:00'da çalışır
   workflow_dispatch:       # manuel tetikleme için
 
+permissions:
+  contents: write          # output branch'e yazma izni
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -19,8 +22,11 @@ jobs:
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push Snake to output branch
-        uses: EndBug/add-and-commit@v9
-        with:
-          branch: output
-          message: "Generate snake animation"
-          add: "dist/github-contribution-grid-snake.svg"
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b output || git checkout output
+          mv dist/github-contribution-grid-snake.svg github-contribution-grid-snake.svg
+          git add github-contribution-grid-snake.svg
+          git commit -m "Generated snake animation" || echo "No changes to commit"
+          git push origin output
