@@ -34,7 +34,7 @@
 
 ### ⌨ Coding Activity (WakaTime)  
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=busragizemyilmaz&theme=tokyonight&cache_seconds=1800)](https://wakatime.com/@busragizemyilmaz)  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=busragizemyilmaz&theme=tokyonight&langs_count=10) 
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=busragizemyilmaz&theme=tokyonight&cache_seconds=60)](https://wakatime.com/@busragizemyilmaz)  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=busragizemyilmaz&theme=tokyonight&langs_count=10) 
 
 ---
 
