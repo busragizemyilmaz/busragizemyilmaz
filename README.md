@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Büşra Gizem Yılmaz  
 
-🎓 2st-year Computer Engineering student at *Gebze Technical University*  
+🎓 2nd-year Computer Engineering student at *Gebze Technical University*  
 💻 Passionate about software development, problem-solving and continuous learning  
 
 ---
@@ -14,9 +14,9 @@
 ---
 
 ### 🛠 Tech Stack
-- *Languages*: C, Python
-- *Tools & Platforms*: Arduino, Linux/Ubuntu, Git, GitHub  
-- *Domains of Interest*:  
+- **Languages**: C, Python  
+- **Tools & Platforms**: Arduino, Linux/Ubuntu, Git, GitHub  
+- **Domains of Interest**:  
   - Cloud Computing ☁  
   - Artificial Intelligence 🤖  
   - Web & Mobile Development 🌍📱  
@@ -29,6 +29,14 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=busragizemyilmaz&layout=compact&theme=tokyonight&cache_seconds=60)  
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=busragizemyilmaz&theme=tokyonight&hide_border=false)
+
+---
+
+### 📈 Activity Graph  
+
+![Büşra's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=busragizemyilmaz&theme=tokyo-night)
+
 ---
 
 ### ⌨ Coding Activity (WakaTime)  
@@ -37,29 +45,16 @@
 
 ---
 
-### 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/büşra-gizem-yılmaz/)
-- 📧 busragizemyilmaz.dev@gmail.com
+### 🐍 Contribution Snake  
+
+![Snake animation](https://github.com/busragizemyilmaz/busragizemyilmaz/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-✨ Always curious, always learning, always building.
+### 🌐 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/büşra-gizem-yılmaz/)  
+- 📧 busragizemyilmaz.dev@gmail.com  
 
+---
 
-
-
-
-<!--
-**busragizemyilmaz/busragizemyilmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ *Always curious, always learning, always building...*  
