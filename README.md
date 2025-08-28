@@ -25,7 +25,7 @@
 
 ### 📊 GitHub Statistics  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=busragizemyilmaz&show_icons=true&theme=tokyonight&cache_seconds=60&include_all_commits=true&count_private=true)     ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=busragizemyilmaz&theme=tokyonight&hide_border=false) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=busragizemyilmaz&show_icons=true&theme=tokyonight&cache_seconds=60&include_all_commits=true&count_private=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=busragizemyilmaz&theme=tokyonight&hide_border=false) 
 
 ---
 
