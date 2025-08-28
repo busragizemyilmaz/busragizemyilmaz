@@ -33,12 +33,6 @@
 
 ---
 
-### 📈 Activity Graph  
-
-![Büşra's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=busragizemyilmaz&theme=tokyo-night)
-
----
-
 ### ⌨ Coding Activity (WakaTime)  
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=busragizemyilmaz&theme=tokyonight&cache_seconds=1800)](https://wakatime.com/@busragizemyilmaz)  
@@ -47,7 +41,8 @@
 
 ### 🐍 Contribution Snake  
 
-![Snake animation](https://github.com/busragizemyilmaz/busragizemyilmaz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/busragizemyilmaz/busragizemyilmaz/blob/output/dist/github-contribution-grid-snake.svg)
+
 
 ---
 
