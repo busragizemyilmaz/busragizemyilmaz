@@ -26,8 +26,8 @@
 ### 📊 GitHub Statistics  
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=busragizemyilmaz&show_icons=true&theme=tokyonight&cache_seconds=60&include_all_commits=true&count_private=true" height="140"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=busragizemyilmaz&theme=tokyonight&hide_border=false" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=busragizemyilmaz&show_icons=true&theme=tokyonight&cache_seconds=60&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=busragizemyilmaz&theme=tokyonight&hide_border=false" height="160"/>
 </p>
 
 ---
