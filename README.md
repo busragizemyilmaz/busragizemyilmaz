@@ -14,12 +14,9 @@
 ---
 
 ### 🛠 Tech Stack
-- **Languages**: C, Python  
-- **Tools & Platforms**: Arduino, Linux/Ubuntu, Git, GitHub  
-- **Domains of Interest**:  
-  - Cloud Computing ☁  
-  - Artificial Intelligence 🤖  
-  - Web & Mobile Development 🌍📱  
+- **Programming Languages**: C, Python
+- **Markup & Styling**: HTML, CSS
+- **Tools & Platforms**: Arduino, Linux/Ubuntu, Git, GitHub   
 
 ---
 
@@ -41,7 +38,6 @@
 ### 🐍 Contribution Snake  
 
 ![Snake animation](https://github.com/busragizemyilmaz/busragizemyilmaz/blob/output/dist/github-contribution-grid-snake.svg)
-
 
 ---
 
