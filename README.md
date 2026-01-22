@@ -14,7 +14,7 @@
 ---
 
 ### 🛠 Tech Stack
-- **Programming Languages**: C, Python
+- **Programming Languages**: C, Python, C++
 - **Markup & Styling**: HTML, CSS
 - **Tools & Platforms**: Arduino, Linux/Ubuntu, Git, GitHub   
 
