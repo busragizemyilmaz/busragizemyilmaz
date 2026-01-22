@@ -1,26 +1,29 @@
-## Hi there 👋 I'm Büşra Gizem Yılmaz  
+## Hi there 👋 I'm Büşra Gizem Yılmaz
 
-🎓 2nd-year Computer Engineering student at *Gebze Technical University*  
-💻 Passionate about software development, problem-solving and continuous learning  
+🎓 2nd-year Computer Engineering student at *Gebze Technical University*
+
+🚀 Passionate about **embedded systems**, autonomous robotics and software architecture  
 
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 I’ve worked on *Arduino-based projects* and learned how to manage hardware & sound systems.  
-- ⚡ Strong foundation in *C programming, algorithms and data structures*.  
-- 🐧 Experienced with *Linux/Ubuntu* environments and command-line tools.  
-- 🌱 Currently learning and improving my skills in *web and mobile development*.  
+- 🔭 Currently working as a **Software Developer** for the **Rover Team**, focusing on embedded logic and autonomous systems.
+- 🎯 My goal is to specialize in **Embedded Software Development** and real-time systems.
+- 🤖 Developing **ROS2** nodes to **interface with embedded hardware (ESP32/Arduino)**; processing sensor data via Serial/Wi-Fi communication.
+- ⚡ Strong foundation in **C++ (OOP)**, **C programming** and **Algorithms**.
+- 🐧 Experienced with **Linux/Ubuntu** environments and **Git/GitHub** workflow.
 
 ---
 
 ### 🛠 Tech Stack
-- **Programming Languages**: C, Python, C++
-- **Markup & Styling**: HTML, CSS
-- **Tools & Platforms**: Arduino, Linux/Ubuntu, Git, GitHub   
+- **Programming Languages**: C++, C, Python
+- **Robotics & Embedded**: ROS2, Arduino, ESP32, Linux/Ubuntu
+- **Web Basics**: HTML, CSS
+- **Tools & Version Control**: Git, GitHub, VS Code
 
 ---
 
-### 📊 GitHub Statistics  
+### 📊 GitHub Statistics
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=busragizemyilmaz&show_icons=true&theme=tokyonight&cache_seconds=60&include_all_commits=true&count_private=true" height="160"/>
@@ -35,7 +38,7 @@
 
 ---
 
-### 🐍 Contribution Snake  
+### 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/busragizemyilmaz/busragizemyilmaz/blob/output/dist/github-contribution-grid-snake.svg)
 
@@ -47,4 +50,4 @@
 
 ---
 
-✨ *Always curious, always learning, always building...*  
+✨ *Always curious, always learning, always building...*
