@@ -17,7 +17,7 @@
 
 ### 🛠 Tech Stack
 - **Programming Languages**: C++, C, Python
-- **Robotics & Embedded**: ROS2, Arduino, ESP32, Linux/Ubuntu
+- **Robotics & Embedded**: ROS2, Arduino, Linux/Ubuntu
 - **Web Basics**: HTML, CSS
 - **Tools & Version Control**: Git, GitHub, VS Code
 
