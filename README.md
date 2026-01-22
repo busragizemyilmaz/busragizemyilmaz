@@ -7,9 +7,9 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 Currently working as a **Software Developer** for the **Rover Team**, focusing on embedded logic and autonomous systems.
+- 🔭 Currently working as a **Software Developer** for the **Rover Team**, focusing on robotic system integration.
 - 🎯 My goal is to specialize in **Embedded Software Development** and real-time systems.
-- 🤖 Developing **ROS2** nodes to **interface with embedded hardware (ESP32/Arduino)**; processing sensor data via Serial/Wi-Fi communication.
+- 🤖 Developing **ROS2** nodes to **integrate embedded hardware (ESP32)**; creating the software architecture to process sensor data streams.
 - ⚡ Strong foundation in **C++ (OOP)**, **C programming** and **Algorithms**.
 - 🐧 Experienced with **Linux/Ubuntu** environments and **Git/GitHub** workflow.
 
